@@ -3,8 +3,8 @@
 // Expected Output : 34223
 
 
-// var reverse=(num)=> String(num).split("").reverse().join("");
-// console.log(reverse(32243))
+var reverse=(num)=> String(num).split("").reverse().join("");
+console.log(reverse(32243))
 
 const reverse1=function(num)
 {
